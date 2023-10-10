@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #4 in CameraView.body.getter:CameraView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "model.captureSession.inputs">
+            </PersistentString>
+            <PersistentString
+               value = "model.captureSession">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FrameHandler.setupCaptureSession():CameraView.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #4 in CameraView.body.getter:CameraView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
